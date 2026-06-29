@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 🌸 APP NAME -->
+    <string name="app_name">GlowScanAI</string>
+
+    <!-- 🌸 FIREBASE CONFIG -->
+    <string name="google_app_id">1:108701101286:android:2fc0a06e4d108d72071f27</string>
+    <string name="gcm_defaultSenderId">108701101286</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url">https://glowscanai1-default-rtdb.firebaseio.com</string>
+    <string name="google_api_key">AIzaSyAs93A52WxFPXAxSOPbA9nXdvZTZv7d53M</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAs93A52WxFPXAxSOPbA9nXdvZTZv7d53M</string>
+    <string name="project_id">glowscanai1</string>
+    <string name="storage_bucket">glowscanai1.firebasestorage.app</string>
+
+</resources>

@@ -1,0 +1,17 @@
+# Secrets
+.env
+firebase_key.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Zip files
+*.zip
+
+# VS Code
+.vscode/
