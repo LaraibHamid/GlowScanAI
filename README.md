@@ -67,7 +67,10 @@ flutter run
 
 The Firebase credentials and environment variables are intentionally excluded from this repository for security reasons.
 
-## Author
+## Authors
 
 **Laraib Hamid**
+Software Engineer
+
+**M.Asad Arshad**
 Software Engineer
